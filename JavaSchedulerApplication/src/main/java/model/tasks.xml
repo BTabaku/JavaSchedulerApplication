@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+
+    <task>
+        <task_name>Home</task_name>
+        <task_id>1</task_id>
+
+        <schedule_List>
+            <schedule>
+                <schedule_name>Clean</schedule_name>
+                <schedule_time>2019/11/11 03:24:38</schedule_time>
+            </schedule>
+            <schedule>
+                <schedule_name>Wash</schedule_name>
+                <schedule_time>2019/11/11 03:11:38</schedule_time>
+            </schedule>
+            <schedule>
+                <schedule_name>Feed the Dog</schedule_name>
+                <schedule_time>2019/11/11 03:10:38</schedule_time>
+            </schedule>
+
+        </schedule_List>
+    </task>
+
+    <task>
+        <task_name>Work</task_name>
+        <task_id>2</task_id>
+
+        <schedule_List>
+            <schedule>
+                <schedule_name>Meeting Anna</schedule_name>
+                <schedule_time>2019/11/10 22:59:42</schedule_time>
+            </schedule>
+            <schedule>
+                <schedule_name>Taking the buss</schedule_name>
+                <schedule_time>2019/11/10 22:59:42</schedule_time>
+            </schedule>
+            <schedule>
+                <schedule_name>Printing papers</schedule_name>
+                <schedule_time>2019/11/10 22:59:42</schedule_time>
+            </schedule>
+
+        </schedule_List>
+    </task>
+
+    <task>
+        <task_name>Weekend</task_name>
+        <task_id>3</task_id>
+
+        <schedule_List>
+            <schedule>
+                <schedule_name>Walking to lake</schedule_name>
+                <schedule_time>2019/11/10 22:59:42</schedule_time>
+            </schedule>
+            <schedule>
+                <schedule_name>Going out</schedule_name>
+                <schedule_time>2019/11/10 22:59:42</schedule_time>
+            </schedule>
+            <schedule>
+                <schedule_name>Watching Movie X</schedule_name>
+                <schedule_time>2019/11/10 22:59:42</schedule_time>
+            </schedule>
+
+        </schedule_List>
+    </task>
+
+
+</tasks>
+
